@@ -54,7 +54,7 @@ public/
 Clone the repository
 
 ```
-git clone <repository-url>
+git clone <https://github.com/VijayAndroidTest/FrontEndTask.git>
 ```
 
 Install dependencies
